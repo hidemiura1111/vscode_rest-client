@@ -1,0 +1,4 @@
+// Qiita API, Docs
+// https://qiita.com/api/v2/docs#%E3%82%BF%E3%82%B0
+
+https://qiita.com/api/v2/tags/JavaScript
